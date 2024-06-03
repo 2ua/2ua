@@ -13,6 +13,7 @@ I'm currently enjoying the world of coding at Codam, part of the 42Network, thro
 - **Unix and Shell**: Navigating the command line.
 - **Version Control**: Using Git for project management.
 - **Peer Learning**: Engaging with peers to solve complex problems and share knowledge.
+- **Peer Evaluation**: Learning how to strictly evualuate other students' code and projects, discover new solutions and explain alternatives.
 
 Feel free to explore my repositories and connect with me. I'm always open to feedback and collaboration!
 
